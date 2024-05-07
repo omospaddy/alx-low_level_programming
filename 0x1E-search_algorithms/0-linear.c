@@ -1,4 +1,4 @@
-/*
+ /*
  * File: 0-linear.c
  * Auth: Brennan D Baraban
  */
